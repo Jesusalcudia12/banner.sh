@@ -1,5 +1,5 @@
 #!/bin/bash
-
+source $HOME/termux_banner.sh
 # Definición de colores ANSI:
 VERDE='\e[32m'
 ROJO='\e[31m'
